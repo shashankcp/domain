@@ -2,7 +2,7 @@
 
 **Technical Product Manager | Agile Leader | Senior Technologist**
 
-I bridge the gap between complex engineering challenges and high-impact business solutions. With over 18 years of experience spanning software development, cloud-native architecture, and technical team leadership, I specialize in driving product vision while ensuring robust, scalable execution. 
+I bridge the gap between complex engineering challenges and high-impact business solutions. With over 14+ years of experience spanning software development, cloud-native architecture, and technical team leadership, I specialize in driving product vision while ensuring robust, scalable execution. 
 
 Currently, my focus is on leveraging Agile methodologies and modern cloud technologies to build products that deliver genuine user value.
 
